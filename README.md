@@ -1,8 +1,10 @@
-freakserv
-===
+# MindFreakers Networking official repository
 
-Welcome to FreakServ Inc. Official Repository.
+Welcome to [MindFreakers Networking](http://go.c4u.in/mfn) official repository on GitHub. 
 
-The projects will be added soon.
+Developed by [Sagar Gulati](http://go.c4u.in/sagar) and [Venkateswaran Selvan](https://twitter.com/MailMeVenkat25).
 
-Visit us @ https://www.freakservinc.com/ to know more.
+* Current Projects:
+ * [FreakCDN](https://github.com/freakserv/cdn)/
+
+### To know more, visit: [www.mindfreakers.net](https://www.mindfreakers.net/?utm_source=githome&ref=git&utm_camp=click)
